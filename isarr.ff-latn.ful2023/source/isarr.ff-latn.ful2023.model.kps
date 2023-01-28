@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>15.0.274.0</KeymanDeveloperVersion>
+    <FileVersion>12.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">ful2023</Name>
+    <Copyright URL="">© 2023 Ibrahima Mamal Sarr</Copyright>
+    <Author URL="">isarr</Author>
+    <Version URL="">1.0.2</Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\isarr.ff-latn.ful2023.model.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+  </Files>
+  <Keyboards/>
+  <LexicalModels>
+    <LexicalModel>
+      <Name>ful2023</Name>
+      <ID>isarr.ff-latn.ful2023</ID>
+      <Languages>
+        <Language ID="ff-Latn">Fulah</Language>
+        <Language ID="fuc-Latn-SN">Pulaar</Language>
+        <Language ID="fub-Latn-NG">Adamawa Fulfulde</Language>
+        <Language ID="fuf-Lati-GN">Pular</Language>
+        <Language ID="fuc-Latn-MR">Pulaar</Language>
+        <Language ID="ffm-Latn-ML">Maasina Fulfulde</Language>
+        <Language ID="fuh-Latn-BF">Western Niger Fulfulde</Language>
+      </Languages>
+    </LexicalModel>
+  </LexicalModels>
+  <Strings/>
+</Package>
